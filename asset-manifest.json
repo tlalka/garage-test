@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/garage-test/static/css/main.f855e6bc.css",
+    "main.js": "/garage-test/static/js/main.b7f6c958.js",
+    "static/js/453.0cc170ff.chunk.js": "/garage-test/static/js/453.0cc170ff.chunk.js",
+    "static/media/logo.svg": "/garage-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/garage-test/index.html",
+    "main.f855e6bc.css.map": "/garage-test/static/css/main.f855e6bc.css.map",
+    "main.b7f6c958.js.map": "/garage-test/static/js/main.b7f6c958.js.map",
+    "453.0cc170ff.chunk.js.map": "/garage-test/static/js/453.0cc170ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b7f6c958.js"
+  ]
+}
